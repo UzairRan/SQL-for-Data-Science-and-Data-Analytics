@@ -1,0 +1,24 @@
+The WHERE Clause in SQL
+
+The WHERE clause in SQL is used to filter rows from a table based on specified conditions. It allows 
+you to narrow down the result set to only those rows that meet the specified criteria.
+
+Example:
+
+Let's say we have a table named "employees" with columns "employee_id", "first_name", 
+"last_name", and "department_id". We want to retrieve the first name and last name of employees 
+who belong to the 'Marketing' department.
+
+SQL code:
+SELECT first_name, last_name
+FROM employees 
+WHERE department_id = 'Marketing'; 
+
+In this example:
+• SELECT first_name, last_name: Specifies that we want to retrieve data from the "first_name" 
+and "last_name" columns.
+
+• FROM employees: Specifies that we want to retrieve data from the "employees" table.
+
+• WHERE department_id = 'Marketing': Specifies the condition that the value in the 
+"department_id" column must be 'Marketing' for the rows to be included in the result set.
