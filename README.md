@@ -25,3 +25,8 @@ Join me on this journey of continuous learning! Feel free to fork this repositor
 
 🌟 Connect with Me:
 Let's stay connected! Find me on LinkedIn and let's discuss SQL, data science, and everything in between.
+
+🔄 Practice Database Available:
+I've also added a zip file containing a sample database for hands-on practice. Download it to perform and apply the concepts you've learned.
+
+
